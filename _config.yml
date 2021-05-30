@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My Data Science Blog
-description: Follow my data science journey!
+title: My Data Science Blog, B.
+description: Follow my data science journey, that started in 2016 when I became a homeless cat washing dishes at P.F Changs!
 github_username: Sammm21
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Sam_ds_blog"
